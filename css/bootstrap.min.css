@@ -6239,11 +6239,11 @@ width: 100%;
 .ind{
 	max-width: 100%;
             max-height: 100vh;
-            margin: auto;
 }
 .imgbox {
             display: grid;
             height: 100%;
+	width: 100%;
         }
 
         .indmob{
